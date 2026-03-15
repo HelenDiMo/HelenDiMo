@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hola, soy Elena (Helen para los amigos) 👋
 
-<!--
-**HelenDiMo/HelenDiMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Background en Administración y Finanzas  
+🏨 Experiencia profesional en el sector hotelero  
+🤖 Actualmente aprendiendo Python, Inteligencia Artificial y análisis de datos  
+⚙️ Interesada en automatización y optimización de procesos  
+📚 Compartiendo ejercicios y pequeños proyectos de mi proceso de aprendizaje  
 
-Here are some ideas to get you started:
+💡 Explorando cómo la tecnología y los datos pueden mejorar procesos de negocio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Actualmente aprendiendo
+
+- Python
+- Inteligencia Artificial
+- Análisis de datos
