@@ -3,7 +3,7 @@
 📊 Background en Administración y Finanzas  
 🤖 Actualmente desarrollando habilidades en Python, Inteligencia Artificial y análisis de datos   
 ⚙️ Interesada en automatización y optimización de procesos  
-📚 Compartiendo ejercicios y pequeños proyectos de mi proceso de aprendizaje  
+📚 Compartiendo ejercicios y proyectos de mi proceso de aprendizaje  
 
 ## 📂 Proyectos destacados
 
