@@ -26,4 +26,4 @@ Seguir creciendo en el ámbito de la tecnología y aplicar el análisis de datos
 
 ## 📫 Conecta conmigo
 
-LinkedIn: [www.linkedin.com/in/elena-diazmo]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/elena-diazmo)
