@@ -14,9 +14,9 @@
 
 ## 🚀 Actualmente aprendiendo
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Learning-blue?style=for-the-badge)
-![Data](https://img.shields.io/badge/Data-Analysis-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Learning-blue?style=flat)
+![Data](https://img.shields.io/badge/Data-Analysis-orange?style=flat)
 
 ## 🎯 Objetivo
 
@@ -24,4 +24,4 @@ Seguir creciendo en el ámbito de la tecnología y aplicar el análisis de datos
 
 ## 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/elena-diazmo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](www.linkedin.com/in/elena-diazmo)
