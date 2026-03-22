@@ -8,7 +8,8 @@
 ## 📂 Proyectos destacados
 
 - 🐍 [Estudiando Python](https://github.com/HelenDiMo/Estudiando_Python) → Ejercicios y Práctica diaria.
-- 📊 [Practicas Del Curso IA 80h.](https://github.com/HelenDiMo/Practicas-Del-Curso_IA_F5) → Actividades realizadas durante el curso
+- 📊 [Practicas Del Curso IA 80h.](https://github.com/HelenDiMo/Practicas-Del-Curso_IA_F5) → Actividades realizadas durante el curso.
+- 🐶 [P.A.W.L-E - Robot Paseador de Perros](https://github.com/HelenDiMo/P.A.W.L-e---Robot-Paseador-de-Perros) → Robot paseador de Perros. 
 
 💡 Explorando cómo la tecnología y los datos pueden mejorar procesos de negocio
 
