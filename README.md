@@ -8,16 +8,16 @@
 ## 📂 Proyectos destacados
 
 - 🐍 [Estudiando Python](https://github.com/HelenDiMo/Estudiando_Python) → Ejercicios y Práctica diaria.
-- 📊 [Practicas Del Curso IA 80h.](https://github.com/HelenDiMo/Practicas-Del-Curso_IA_F5) → Actividades realizadas durante el curso.
-- 🐶 [P.A.W.L-E - Robot Paseador de Perros](https://github.com/HelenDiMo/P.A.W.L-e---Robot-Paseador-de-Perros) → Robot paseador de Perros. 
+- 📊 [Practicas Del Curso IA 80h.](https://github.com/HelenDiMo/Practicas-Del-Curso_IA_F5) → Proyectos y actividades del curso.
+- 🐶 [P.A.W.L-E - Robot Paseador de Perros](https://github.com/HelenDiMo/P.A.W.L-e---Robot-Paseador-de-Perros) → Automatización con Python 
 
 💡 Explorando cómo la tecnología y los datos pueden mejorar procesos de negocio
 
 ## 🚀 Actualmente aprendiendo
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Learning-blue?style=flat)
-![Data](https://img.shields.io/badge/Data-Analysis-orange?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+![AI](https://img.shields.io/badge/AI-blue?style=flat) |
+![Data](https://img.shields.io/badge/Data-Analysis-orange?style=flat) |
 
 ## 🎯 Objetivo
 
