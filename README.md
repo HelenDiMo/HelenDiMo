@@ -1,6 +1,6 @@
 ## Hola, soy Elena (Helen para los amigos) 👋
 
-📊 Background en Administración y Finanzas  
+📊 Background en Administración, Finanzas y Turismo  
 🤖 Actualmente desarrollando habilidades en Python, Inteligencia Artificial y análisis de datos   
 ⚙️ Interesada en automatización y optimización de procesos  
 📚 Compartiendo ejercicios y proyectos de mi proceso de aprendizaje  
