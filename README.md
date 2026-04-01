@@ -15,9 +15,16 @@
 
 ## 🚀 Actualmente aprendiendo
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 ![AI](https://img.shields.io/badge/AI-blue?style=flat) |
 ![Data](https://img.shields.io/badge/Data-Analysis-orange?style=flat) |
+
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/12a6ff74-53ac-47da-9975-63c090b0652b" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7669f720-a8a3-43fb-a81f-af094c0260e5" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/04229934-55a2-48aa-9dff-6951f4d9882e" />
+
+
+
+
 
 ## 🎯 Objetivo
 
