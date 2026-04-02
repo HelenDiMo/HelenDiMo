@@ -4,7 +4,8 @@ Apasionada por la tecnología y actualmente en transición hacia el mundo de la 
 
 Vengo del ámbito de **Administración, Finanzas y Turismo**, lo que me aporta una visión orientada a procesos, eficiencia y resolución de problemas.
 
-Actualmente estoy desarrollando habilidades en:
+Actualmente desarrollo habilidades en:
+
 - Python  
 - Análisis de datos  
 - Automatización de procesos  
