@@ -25,7 +25,6 @@ Actualmente estoy desarrollando habilidades en:
 - 🐍 [Estudiando Python](https://github.com/HelenDiMo/Estudiando_Python) → Ejercicios, retos y proyectos prácticos para consolidar fundamentos de Python y lógica de programación.
 - 🐶 [P.A.W.L-E - Robot Paseador de Perros](https://github.com/HelenDiMo/P.A.W.L-e---Robot-Paseador-de-Perros) → Proyecto orientado a automatización con Python, donde exploro la aplicación de lógica para resolver un problema práctico. 
 
-💡 Explorando cómo la tecnología y los datos pueden mejorar procesos de negocio
 
 ## 🚀 Actualmente aprendiendo
 
@@ -36,6 +35,8 @@ Actualmente estoy desarrollando habilidades en:
 ## 🎯 Enfoque
 
 Me interesa especialmente la aplicación de la tecnología para la mejora de procesos, automatización y toma de decisiones basada en datos.
+
+💡 Explorando cómo la tecnología y los datos pueden mejorar procesos de negocio
 
 ---
 
