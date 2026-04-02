@@ -14,12 +14,19 @@ Actualmente desarrollo habilidades en:
 
 ## 🛠️ Tecnologías y herramientas
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
-![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
-![Colab](https://img.shields.io/badge/Platform-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/Tool-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Tool-Notion-000000?logo=notion&logoColor=white)
+**Lenguaje:**
+- ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+
+**Entornos de desarrollo:**
+- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)  
+- ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
+
+**Control de versiones:**
+- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+**Organización:**
+- ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 
 ## 📂 Proyectos destacados
 
