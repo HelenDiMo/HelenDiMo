@@ -1,34 +1,50 @@
 ## Hola, soy Elena (Helen para los amigos) 👋
 
-📊 Background en Administración, Finanzas y Turismo  
-🤖 Actualmente desarrollando habilidades en Python, Inteligencia Artificial y análisis de datos   
-⚙️ Interesada en automatización y optimización de procesos  
-📚 Compartiendo ejercicios y proyectos de mi proceso de aprendizaje  
+Apasionada por la tecnología y actualmente en transición hacia el mundo de la **Inteligencia Artificial y el análisis de datos**.
+
+Vengo del ámbito de **Administración, Finanzas y Turismo**, lo que me aporta una visión orientada a procesos, eficiencia y resolución de problemas.
+
+Actualmente estoy desarrollando habilidades en:
+- Python  
+- Análisis de datos  
+- Automatización de procesos  
+
+💡 Mi objetivo: aplicar la tecnología para optimizar procesos y aportar valor real en entornos de negocio.
+
+## 🛠️ Tecnologías y herramientas
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![Colab](https://img.shields.io/badge/Platform-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Tool-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Tool-Notion-000000?logo=notion&logoColor=white)
 
 ## 📂 Proyectos destacados
 
-- 🐍 [Estudiando Python](https://github.com/HelenDiMo/Estudiando_Python) → Ejercicios y Práctica diaria.
-- 🐶 [P.A.W.L-E - Robot Paseador de Perros](https://github.com/HelenDiMo/P.A.W.L-e---Robot-Paseador-de-Perros) → Automatización con Python 
+- 🐍 [Estudiando Python](https://github.com/HelenDiMo/Estudiando_Python) → Ejercicios, retos y proyectos prácticos para consolidar fundamentos de Python y lógica de programación.
+- 🐶 [P.A.W.L-E - Robot Paseador de Perros](https://github.com/HelenDiMo/P.A.W.L-e---Robot-Paseador-de-Perros) → Proyecto orientado a automatización con Python, donde exploro la aplicación de lógica para resolver un problema práctico. 
 
 💡 Explorando cómo la tecnología y los datos pueden mejorar procesos de negocio
 
 ## 🚀 Actualmente aprendiendo
 
-![AI](https://img.shields.io/badge/AI-blue?style=flat) |
-![Data](https://img.shields.io/badge/Data-Analysis-orange?style=flat) |
+- Inteligencia Artificial  
+- Análisis de datos  
+- Python  
 
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/12a6ff74-53ac-47da-9975-63c090b0652b" />
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7669f720-a8a3-43fb-a81f-af094c0260e5" />
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/04229934-55a2-48aa-9dff-6951f4d9882e" />
+## 🎯 Enfoque
 
+Me interesa especialmente la aplicación de la tecnología para la mejora de procesos, automatización y toma de decisiones basada en datos.
 
+---
 
+## 📈 En evolución
 
+Este perfil se encuentra en constante crecimiento, incorporando nuevos proyectos y aprendizajes de forma continua.
 
-## 🎯 Objetivo
-
-Seguir creciendo en el ámbito de la tecnología y aplicar el análisis de datos y la automatización para mejorar procesos reales de negocio.
+---
 
 ## 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](www.linkedin.com/in/elena-diazmo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elena-diazmo)
