@@ -25,13 +25,26 @@ Actualmente desarrollo habilidades en:
 - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
+**Datos y APIs:**
+- ![API](https://img.shields.io/badge/APIs-REST-4CAF50)  
+- ![JSON](https://img.shields.io/badge/JSON-Data-000000?logo=json&logoColor=white)
+
+**Librerías y frameworks:**
+- ![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)  
+- ![matplotlib](https://img.shields.io/badge/matplotlib-Visualization-11557c)  
+- ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-000000?logo=flask&logoColor=white)  
+- ![pytest](https://img.shields.io/badge/pytest-Testing-0A9EDC)
+
+**Otras librerías:**
+- ![pytz](https://img.shields.io/badge/pytz-timezone-6C3483)
+
 **Organización:**
 - ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 
 ## 📂 Proyectos destacados
 
-- 🐍 [Estudiando Python](https://github.com/HelenDiMo/Estudiando_Python) → Ejercicios, retos y proyectos prácticos para consolidar fundamentos de Python y lógica de programación.
-- 🐶 [P.A.W.L-E - Robot Paseador de Perros](https://github.com/HelenDiMo/P.A.W.L-e---Robot-Paseador-de-Perros) → Proyecto orientado a automatización con Python, donde exploro la aplicación de lógica para resolver un problema práctico. 
+- 🐶 [P.A.W.L-E - Robot Paseador de Perros](https://github.com/HelenDiMo/P.A.W.L-e---Robot-Paseador-de-Perros) → Proyecto orientado a automatización con Python, donde exploro la aplicación de lógica para resolver un problema práctico.
+- 🌦️ [App Climática Avanzada](https://github.com/HelenDiMo/App_climatica_Avanzada/tree/main_v2_app_avanzada) → Aplicación en Python para consulta y análisis de datos meteorológicos, integrando información externa y mostrando resultados de forma estructurada.
 
 
 ## 🚀 Actualmente aprendiendo
