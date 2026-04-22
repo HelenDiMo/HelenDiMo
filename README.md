@@ -18,22 +18,16 @@ Actualmente desarrollo habilidades en:
 - ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 
 **Entornos de desarrollo:**
-- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)  
-- ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
+- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white) | ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
 
 **Control de versiones:**
-- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 **Datos y APIs:**
-- ![API](https://img.shields.io/badge/APIs-REST-4CAF50)  
-- ![JSON](https://img.shields.io/badge/JSON-Data-000000?logo=json&logoColor=white)
+- ![API](https://img.shields.io/badge/APIs-REST-4CAF50) | ![JSON](https://img.shields.io/badge/JSON-Data-000000?logo=json&logoColor=white)
 
 **Librerías y frameworks:**
-- ![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)  
-- ![matplotlib](https://img.shields.io/badge/matplotlib-Visualization-11557c)  
-- ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-000000?logo=flask&logoColor=white)  
-- ![pytest](https://img.shields.io/badge/pytest-Testing-0A9EDC)
+- ![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458?logo=pandas&logoColor=white) | ![matplotlib](https://img.shields.io/badge/matplotlib-Visualization-11557c) | ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-000000?logo=flask&logoColor=white) | ![pytest](https://img.shields.io/badge/pytest-Testing-0A9EDC)
 
 **Otras librerías:**
 - ![pytz](https://img.shields.io/badge/pytz-timezone-6C3483)
