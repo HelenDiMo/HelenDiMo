@@ -61,11 +61,13 @@ Este perfil se encuentra en constante crecimiento, incorporando nuevos proyectos
 
 ---
 
+
 ## 📊 GitHub Stats
-
-![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenDiMo&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelenDiMo&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HelenDiMo&show_icons=true&theme=transparent" height="160"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenDiMo&layout=compact&theme=transparent" height="160"/>
+</p>
 
 ---
 
