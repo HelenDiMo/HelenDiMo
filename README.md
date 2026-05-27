@@ -61,6 +61,14 @@ Este perfil se encuentra en constante crecimiento, incorporando nuevos proyectos
 
 ---
 
+## 📊 GitHub Stats
+
+![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenDiMo&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelenDiMo&layout=compact&theme=tokyonight)
+
+---
+
 ## 📫 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elena-diazmo)
