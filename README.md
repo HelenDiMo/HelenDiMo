@@ -14,38 +14,59 @@ Actualmente desarrollo habilidades en:
 
 ## 🛠️ Tecnologías y herramientas
 
-**Lenguaje:**
-- ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+### 📊 Análisis de datos y visualización
 
-**Entornos de desarrollo:**
-- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white) | ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
 
-**Control de versiones:**
-- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+### 🐍 Programación
 
-**Datos y APIs:**
-- ![API](https://img.shields.io/badge/APIs-REST-4CAF50) | ![JSON](https://img.shields.io/badge/JSON-Data-000000?logo=json&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-**Librerías y frameworks:**
-- ![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458?logo=pandas&logoColor=white) | ![matplotlib](https://img.shields.io/badge/matplotlib-Visualization-11557c) | ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-000000?logo=flask&logoColor=white) | ![pytest](https://img.shields.io/badge/pytest-Testing-0A9EDC)
+### 🌐 APIs y datos
 
-**Otras librerías:**
-- ![pytz](https://img.shields.io/badge/pytz-timezone-6C3483)
+![REST API](https://img.shields.io/badge/REST%20API-4CAF50)
+![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
 
-**Organización:**
-- ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+### 🚀 Desarrollo de aplicaciones
+
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC)
+
+### 🐳 Contenedores
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+### 💻 Entornos de trabajo
+
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
+
+### 🔄 Control de versiones
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+### 📚 Organización y documentación
+
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 
 ## 📂 Proyectos destacados
 
-- 🐶 [P.A.W.L-E - Robot Paseador de Perros](https://github.com/HelenDiMo/P.A.W.L-e---Robot-Paseador-de-Perros) → Proyecto orientado a automatización con Python, donde exploro la aplicación de lógica para resolver un problema práctico.
+- 🏛️ [Archaios Data Intelligence](https://github.com/HelenDiMo/archaios-data-Intelligence.git) → Proyecto de Power BI orientado al análisis exploratorio de datos (EDA), detección de sesgos y comprensión de las limitaciones de datos históricos.
 - 🌦️ [App Climática Avanzada](https://github.com/HelenDiMo/App_climatica_Avanzada/tree/main_v2_app_avanzada) → Aplicación en Python para consulta y análisis de datos meteorológicos, integrando información externa y mostrando resultados de forma estructurada.
-
+- 🐶 [P.A.W.L-E - Robot Paseador de Perros](https://github.com/HelenDiMo/P.A.W.L-e---Robot-Paseador-de-Perros) → Proyecto orientado a automatización con Python, donde exploro la aplicación de lógica para resolver un problema práctico.
 
 ## 🚀 Actualmente aprendiendo
 
+- Python 
 - Inteligencia Artificial  
 - Análisis de datos  
-- Python  
+ 
 
 ## 🎯 Enfoque
 
