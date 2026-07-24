@@ -8,7 +8,8 @@ Actualmente desarrollo habilidades en:
 
 - Python  
 - Análisis de datos  
-- Automatización de procesos  
+- Automatización de procesos
+- Machine Learning  
 
 💡 Mi objetivo: aplicar la tecnología para optimizar procesos y aportar valor real en entornos de negocio.
 
