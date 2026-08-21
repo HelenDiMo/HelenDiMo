@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Elena
+# 👋 Hola, soy Elena (Helen para los amigos)
 
 ### **Data & AI · Business & Finance · Technology**
 
@@ -116,24 +116,23 @@ Python · Web · APIs · Digital Solutions
 
 ## 🚀 Proyectos destacados
 
-| 📁 🏛️ **Archaios Data Intelligence** | 📁 🌦️ **App Climática Avanzada** | 📁 🐶 **P.A.W.L-E**  |
-|:---:|:---:|:---:|
-| *Data Analysis · EDA · Visualization* | *APIs · Data Analysis · Visualization* | *Python · Logic · Automation* |
-| Análisis y visualización de datos históricos para transformar información en conocimiento útil. | Aplicación para consultar y analizar información meteorológica procedente de fuentes externas. | Proyecto de automatización basado en Python y resolución de un problema práctico. |
-| [**Ver proyecto →**](https://github.com/HelenDiMo/archaios-data-Intelligence) | [**Ver proyecto →**](https://github.com/HelenDiMo/App_climatica_Avanzada/tree/main_v2_app_avanzada) | [**Ver proyecto →**](https://github.com/HelenDiMo/P.A.W.L-e---Robot-Paseador-de-Perros) |
+|                              📁 🏛️ **Archaios Data Intelligence**                               |                                  📁 🌦️ **App Climática Avanzada**                                   |                                   📁 🐶 **P.A.W.L-E**                                   |
+| :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
+|                              _Data Analysis · EDA · Visualization_                              |                               _APIs · Data Analysis · Visualization_                                |                              _Python · Logic · Automation_                              |
+| Análisis y visualización de datos históricos para transformar información en conocimiento útil. |   Aplicación para consultar y analizar información meteorológica procedente de fuentes externas.    |    Proyecto de automatización basado en Python y resolución de un problema práctico.    |
+|          [**Ver proyecto →**](https://github.com/HelenDiMo/archaios-data-Intelligence)          | [**Ver proyecto →**](https://github.com/HelenDiMo/App_climatica_Avanzada/tree/main_v2_app_avanzada) | [**Ver proyecto →**](https://github.com/HelenDiMo/P.A.W.L-e---Robot-Paseador-de-Perros) |
 
 ---
-
 
 ## 🔭 Actualmente explorando
 
 <div align="center">
 
-| 📊 Data | 🤖 AI | ⚙️ Automation | 🌐 Web |
-|:---:|:---:|:---:|:---:|
+|    📊 Data    |          🤖 AI          |   ⚙️ Automation    |     🌐 Web      |
+| :-----------: | :---------------------: | :----------------: | :-------------: |
 | Data Analysis | Artificial Intelligence | Process Automation | Web Development |
-| SQL | Machine Learning | Python | React / Next.js |
-| Power BI | AI Applications | APIs | TypeScript |
+|      SQL      |    Machine Learning     |       Python       | React / Next.js |
+|   Power BI    |     AI Applications     |        APIs        |   TypeScript    |
 
 </div>
 
