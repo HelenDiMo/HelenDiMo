@@ -193,6 +193,4 @@ Siempre estoy abierta a conectar, compartir ideas y explorar nuevas oportunidade
 
 [LinkedIn](https://www.linkedin.com/in/elena-diazmo)
 
-🌍 **Español · Nativo | Inglés · C1**
-
 </div>
