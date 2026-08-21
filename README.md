@@ -131,7 +131,7 @@ Python · Web · APIs · Digital Solutions
 
 <div align="center">
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HelenDiMo&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HelenDiMo&bg_color=0D1117&color=007880&line=00BEBE&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
