@@ -114,62 +114,86 @@ Python · Web · APIs · Digital Solutions
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Proyectos destacados
 
-### 🏛️ Archaios Data Intelligence
+<details>
+<summary><strong>🏛️ Archaios Data Intelligence</strong> · <em>Power BI · Data Analysis</em></summary>
 
-**Power BI · Data Analysis · EDA · Data Visualization**
+<br>
 
 > Transforming historical data into visual insights.
 
 Proyecto de inteligencia y visualización de datos basado en un conjunto de datos arqueológicos.
 
-**Focus**
+### 🔎 Enfoque
 
 - Exploratory Data Analysis
-- Data visualization
-- Pattern identification
-- Data limitations & potential bias
+- Visualización de datos
+- Identificación de patrones
+- Detección de posibles sesgos
+- Análisis de las limitaciones de datos históricos
 
-🔗 [Ver proyecto](https://github.com/HelenDiMo/archaios-data-Intelligence)
+### 🛠️ Tecnologías
+
+`Power BI` · `Data Analysis` · `EDA`
+
+🔗 [Ver proyecto en GitHub](https://github.com/HelenDiMo/archaios-data-Intelligence)
+
+</details>
+
 
 ---
 
-### 🌦️ App Climática Avanzada
+<details>
+<summary>🌦️ <strong>App Climática Avanzada</strong> · Python · APIs</summary>
 
-**Python · APIs · Data Analysis · Visualization**
+<br>
 
 > Turning external data into useful information.
 
 Aplicación desarrollada en Python para consultar y analizar información meteorológica procedente de fuentes externas.
 
-**Focus**
+### 🔎 Enfoque
 
-- API integration
-- Data processing
-- Structured information
-- Data visualization
+- Integración con APIs
+- Procesamiento de datos
+- Consulta de información externa
+- Estructuración de resultados
+- Visualización de datos
 
-🔗 [Ver proyecto](https://github.com/HelenDiMo/App_climatica_Avanzada/tree/main_v2_app_avanzada)
+### 🛠️ Tecnologías
+
+`Python` · `APIs` · `Data Analysis`
+
+🔗 [Ver proyecto en GitHub](https://github.com/HelenDiMo/App_climatica_Avanzada/tree/main_v2_app_avanzada)
+
+</details>
 
 ---
 
-### 🐶 P.A.W.L-E — Robot Paseador de Perros
+<details>
+<summary>🐶 <strong>P.A.W.L-E — Robot Paseador de Perros</strong> · Python · Automatización</summary>
 
-**Python · Automation · Logic**
+<br>
 
 > Solving a real-world problem through code.
 
 Proyecto orientado a la automatización mediante Python, desarrollado alrededor de un problema práctico: la planificación y lógica de funcionamiento de un robot paseador de perros.
 
-**Focus**
+### 🔎 Enfoque
 
-- Logic & problem solving
-- Automation
-- Python programming
-- Practical application
+- Lógica y resolución de problemas
+- Automatización
+- Programación en Python
+- Aplicación práctica de la programación
 
-🔗 [Ver proyecto](https://github.com/HelenDiMo/P.A.W.L-e---Robot-Paseador-de-Perros)
+### 🛠️ Tecnologías
+
+`Python` · `Automation` · `Logic`
+
+🔗 [Ver proyecto en GitHub](https://github.com/HelenDiMo/P.A.W.L-e---Robot-Paseador-de-Perros)
+
+</details>
 
 ---
 
