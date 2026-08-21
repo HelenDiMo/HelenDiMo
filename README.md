@@ -127,9 +127,13 @@ Python · Web · APIs · Digital Solutions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HelenDiMo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+## 📊 Actividad en GitHub
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenDiMo&layout=compact&hide_border=true" height="165" />
+<div align="center">
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HelenDiMo&hide_border=true)
+
+</div>
 
 </div>
 
