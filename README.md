@@ -191,6 +191,7 @@ Esta combinación me permite abordar los problemas desde una perspectiva que con
 
 Siempre estoy abierta a conectar, compartir ideas y explorar nuevas oportunidades.
 
-[LinkedIn](https://www.linkedin.com/in/elena-diazmo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elena%20Díaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-diazmo)
+[![Escríbeme](https://img.shields.io/badge/🖋️%20Escríbeme-Contactar-8B5CF6?style=for-the-badge)](mailto:elena.diazmoreno@gmail.com)
 
 </div>
