@@ -123,9 +123,6 @@ Python · Web · APIs · Digital Solutions
 |          [**Ver proyecto →**](https://github.com/HelenDiMo/archaios-data-Intelligence)          | [**Ver proyecto →**](https://github.com/HelenDiMo/App_climatica_Avanzada/tree/main_v2_app_avanzada) | [**Ver proyecto →**](https://github.com/HelenDiMo/P.A.W.L-e---Robot-Paseador-de-Perros) |
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
 
 ## 📊 Actividad en GitHub
 
