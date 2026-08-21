@@ -1,18 +1,14 @@
 ## Hola, soy Elena (Helen para los amigos) 👋
 
-Apasionada por la tecnología y actualmente en transición hacia el mundo de la **Inteligencia Artificial y el análisis de datos**.
+**Data & AI | Business & Finance | Python · SQL · Power BI**
 
-Vengo del ámbito de **Administración, Finanzas y Turismo**, lo que me aporta una visión orientada a procesos, eficiencia y resolución de problemas.
+Profesional con más de **13 años de experiencia en gestión, finanzas y operaciones**, actualmente orientando mi trayectoria hacia **Data Analysis, Inteligencia Artificial y desarrollo de soluciones digitales**.
 
-Actualmente desarrollo habilidades en:
+Mi experiencia profesional me ha permitido desarrollar una sólida **visión de negocio**, trabajando con datos, procesos y sistemas ERP para mejorar la eficiencia operativa y apoyar la toma de decisiones.
 
-- Python  
-- Análisis de datos  
-- Automatización de procesos
-- Machine Learning  
+Ahora combino esa experiencia con nuevas capacidades técnicas, desarrollando proyectos prácticos con **Python, SQL, Power BI, IA y herramientas de desarrollo**.
 
-💡 Mi objetivo: aplicar la tecnología para optimizar procesos y aportar valor real en entornos de negocio.
-
+🌍 **Languages:** Spanish · Native | English · C1
 ## 🛠️ Tecnologías y herramientas
 
 ### 📊 Análisis de datos y visualización
