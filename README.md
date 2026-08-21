@@ -116,84 +116,11 @@ Python · Web · APIs · Digital Solutions
 
 ## 🚀 Proyectos destacados
 
-<details>
-<summary><strong>🏛️ Archaios Data Intelligence</strong> · <em>Power BI · Data Analysis</em></summary>
-
-<br>
-
-> Transforming historical data into visual insights.
-
-Proyecto de inteligencia y visualización de datos basado en un conjunto de datos arqueológicos.
-
-### 🔎 Enfoque
-
-- Exploratory Data Analysis
-- Visualización de datos
-- Identificación de patrones
-- Detección de posibles sesgos
-- Análisis de las limitaciones de datos históricos
-
-### 🛠️ Tecnologías
-
-`Power BI` · `Data Analysis` · `EDA`
-
-🔗 [Ver proyecto en GitHub](https://github.com/HelenDiMo/archaios-data-Intelligence)
-
-</details>
-
-
----
-
-<details>
-<summary>🌦️ <strong>App Climática Avanzada</strong> · Python · APIs</summary>
-
-<br>
-
-> Turning external data into useful information.
-
-Aplicación desarrollada en Python para consultar y analizar información meteorológica procedente de fuentes externas.
-
-### 🔎 Enfoque
-
-- Integración con APIs
-- Procesamiento de datos
-- Consulta de información externa
-- Estructuración de resultados
-- Visualización de datos
-
-### 🛠️ Tecnologías
-
-`Python` · `APIs` · `Data Analysis`
-
-🔗 [Ver proyecto en GitHub](https://github.com/HelenDiMo/App_climatica_Avanzada/tree/main_v2_app_avanzada)
-
-</details>
-
----
-
-<details>
-<summary>🐶 <strong>P.A.W.L-E — Robot Paseador de Perros</strong> · Python · Automatización</summary>
-
-<br>
-
-> Solving a real-world problem through code.
-
-Proyecto orientado a la automatización mediante Python, desarrollado alrededor de un problema práctico: la planificación y lógica de funcionamiento de un robot paseador de perros.
-
-### 🔎 Enfoque
-
-- Lógica y resolución de problemas
-- Automatización
-- Programación en Python
-- Aplicación práctica de la programación
-
-### 🛠️ Tecnologías
-
-`Python` · `Automation` · `Logic`
-
-🔗 [Ver proyecto en GitHub](https://github.com/HelenDiMo/P.A.W.L-e---Robot-Paseador-de-Perros)
-
-</details>
+| 📁 🏛️ **Archaios Data Intelligence** | 📁 🌦️ **App Climática Avanzada** | 📁 🐶 **P.A.W.L-E**  |
+|:---:|:---:|:---:|
+| *Data Analysis · EDA · Visualization* | *APIs · Data Analysis · Visualization* | *Python · Logic · Automation* |
+| Análisis y visualización de datos históricos para transformar información en conocimiento útil. | Aplicación para consultar y analizar información meteorológica procedente de fuentes externas. | Proyecto de automatización basado en Python y resolución de un problema práctico. |
+| [**Ver proyecto →**](https://github.com/HelenDiMo/archaios-data-Intelligence) | [**Ver proyecto →**](https://github.com/HelenDiMo/App_climatica_Avanzada/tree/main_v2_app_avanzada) | [**Ver proyecto →**](https://github.com/HelenDiMo/P.A.W.L-e---Robot-Paseador-de-Perros) |
 
 ---
 
