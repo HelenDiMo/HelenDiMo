@@ -116,11 +116,11 @@ Python · Web · APIs · Digital Solutions
 
 ## 🚀 Proyectos destacados
 
-|                              📁 🏛️ **Archaios Data Intelligence**                               |                                  📁 🌦️ **App Climática Avanzada**                                   |                                   📁 🐶 **P.A.W.L-E**                                   |
-| :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
-|                              _Data Analysis · EDA · Visualization_                              |                               _APIs · Data Analysis · Visualization_                                |                              _Python · Logic · Automation_                              |
-| Análisis y visualización de datos históricos para transformar información en conocimiento útil. |   Aplicación para consultar y analizar información meteorológica procedente de fuentes externas.    |    Proyecto de automatización basado en Python y resolución de un problema práctico.    |
-|          [**Ver proyecto →**](https://github.com/HelenDiMo/archaios-data-Intelligence)          | [**Ver proyecto →**](https://github.com/HelenDiMo/App_climatica_Avanzada/tree/main_v2_app_avanzada) | [**Ver proyecto →**](https://github.com/HelenDiMo/P.A.W.L-e---Robot-Paseador-de-Perros) |
+| 🏛️ **Archaios Data Intelligence** | 💼 **TinderJob** |
+| :---: | :---: |
+| _Data Analysis · EDA · Visualization_ | _Data Analysis · Python · Automation_ |
+| Análisis y visualización de datos históricos para transformar información en conocimiento útil. | Proyecto de analítica avanzada y automatización orientado al análisis del mercado laboral tecnológico en España. |
+| [**Ver proyecto →**](https://github.com/HelenDiMo/archaios-data-Intelligence) | [**Ver proyecto →**](https://github.com/HelenDiMo/TinderJob) |
 
 ---
 
