@@ -1,10 +1,14 @@
 <div align="center">
+  <a href="https://elena-diaz-beyond-the-resume.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="images/banner.png" alt="Acceso al Portfolio">
+  </a>
+</div>
+
+---
+
+<div align="center">
 
 # 👋 Hola, soy Elena (Helen para los amigos)
-
-### **Data & AI · Business & Finance · Technology**
-
-**Del negocio a los datos. De los datos a la tecnología.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elena%20Díaz-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-diazmo)
 [![GitHub](https://img.shields.io/badge/GitHub-HelenDiMo-181717?logo=github&logoColor=white)](https://github.com/HelenDiMo)
