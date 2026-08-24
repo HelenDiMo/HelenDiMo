@@ -196,19 +196,10 @@ Esta combinación me permite abordar los problemas desde una perspectiva que con
 
 Siempre estoy abierta a conectar, compartir ideas y explorar nuevas oportunidades.
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/elena-diazmo" target="_blank" rel="noopener noreferrer">
-        <img src="images/linkedin.png" alt="LinkedIn" width="28">
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:elena.diazmoreno@gmail.com">
-        <img src="images/email.png" alt="Email" width="28">
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://www.linkedin.com/in/elena-diazmo" target="_blank">
+  <img src="images/linkedin.png" alt="LinkedIn" width="28">
+</a>
+
+[![Escríbeme](https://img.shields.io/badge/🖋️%20Escríbeme-elena.diazmoreno@gmail.com-8B5CF6?style=for-the-badge)](mailto:elena.diazmoreno@gmail.com)
 
 </div>
