@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://elena-diaz-beyond-the-resume.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.elena-diazmo.es/" target="_blank" rel="noopener noreferrer">
     <img src="images/banner.png" alt="Acceso al Portfolio">
   </a>
 </div>
