@@ -45,16 +45,16 @@ Exploro cómo la tecnología puede utilizarse para:
 ```
 🏢 BUSINESS
 Gestión · Finanzas · Operaciones
-          │
-          ▼
+        │
+        ▼
 📊 DATA
 Analysis · SQL · Power BI · EDA
-          │
-          ▼
+        │
+        ▼
 🤖 AI
 Machine Learning · IA · Automatización
-          │
-          ▼
+        │
+        ▼
 💻 TECHNOLOGY
 Python · Web · APIs · Digital Solutions
 ```
